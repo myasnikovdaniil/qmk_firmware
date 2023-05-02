@@ -11,7 +11,7 @@
     "diode_direction": "COL2ROW",
     "development_board": "bluepill",
     "matrix_pins": {
-        "cols": ["B9", "B8", "B7", "B6", "B5", "B4", "B3", "A15", "A10", "A9", "A8", "B15"],
+        "cols": ["B9", "B8", "B5", "B4", "B3", "A15", "A10", "A9", "A8", "B15"],
         "rows": ["C14", "C15", "A0", "A1", "A2", "A3", "A4", "A5"],
         "ghost": true
     },
