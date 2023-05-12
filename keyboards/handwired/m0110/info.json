@@ -12,7 +12,7 @@
     "development_board": "bluepill",
     "matrix_pins": {
         "cols": ["A4", "A3", "A2", "A1", "A0", "C15"],
-        "rows": ["A15", "B3", "B4", "B5", "B6", "B7", "B8", "B9", "A5"],
+        "rows": ["A15", "B3", "B4", "B5", "B6", "B7", "B8", "B9", "A5", "B1"],
         "ghost": true
     },
     "features": {
