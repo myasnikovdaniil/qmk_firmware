@@ -24,7 +24,7 @@
         "nkro": false
     },
     "bootmagic": {
-        "matrix": [1, 0]
+        "matrix": [7, 3]
     },
     "layouts": {
         "LAYOUT": {
