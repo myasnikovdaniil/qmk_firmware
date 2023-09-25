@@ -1,0 +1,18 @@
+{
+    "usb": {
+        "device_version": "0.0.1"
+    },
+    "matrix_pins": {
+        "cols": ["B3", "A15", "B9", "B8", "B7", "B6", "B5", "B4"],
+        "rows": ["A4", "A5", "A6", "C15", "A0", "A1", "A2", "A3", "B12", "B13", "B14", "B15", "A8", "A9", "A10"]
+    },
+    "diode_direction": "COL2ROW",
+    "indicators": {
+        "caps_lock": "B11",
+        "num_lock": "B10",
+        "kana": "C13",
+        "on_state": 0
+    },
+    "processor": "STM32F103",
+    "bootloader": "stm32duino"
+}
